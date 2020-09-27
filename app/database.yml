@@ -1,2 +1,0 @@
-adapter: mysql2
-database: './app/db/development.mysql2'
