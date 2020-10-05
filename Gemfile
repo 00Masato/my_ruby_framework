@@ -10,6 +10,7 @@ gem 'rack'
 gem 'pry'
 gem 'puma'
 gem 'slim'
+gem 'rspec'
 
 # DB
 gem 'sequel'
